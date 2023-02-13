@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sign In"
-        android:textColor="#3F51B5"
+        android:textColor="#8E54E8"
         android:textSize="40dp"
         android:layout_marginBottom="10dp"/>
 
@@ -85,7 +85,7 @@
                 android:layout_weight="1"
                 android:gravity="center_vertical"
                 android:text="Remember Me"
-                android:textColor="#3F51B5"
+                android:textColor="#8E54E8"
                 android:textSize="13dp" />
 
             <TextView
@@ -94,7 +94,7 @@
                 android:layout_weight="1"
                 android:gravity="right|center"
                 android:text="forgot password?"
-                android:textColor="#3F51B5"
+                android:textColor="#8E54E8"
                 android:textSize="13dp" />
         </LinearLayout>
     </LinearLayout>
@@ -114,7 +114,7 @@
         android:layout_height="wrap_content"
         android:text="Don't have an account?"
         android:layout_gravity="center"
-        android:textColor="#3F51B5"
+        android:textColor="#8E54E8"
         android:layout_marginBottom="10dp"
         />
 
@@ -130,14 +130,14 @@
             android:layout_weight="2"
             android:text="Sign Up"
             android:layout_marginRight="3dp"
-            android:textColor="#3F51B5"
+            android:textColor="#8E54E8"
             android:textStyle="bold"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textColor="#3F51B5"
+            android:textColor="#8E54E8"
             android:text="here"
             />
     </LinearLayout>
